@@ -56,3 +56,7 @@ Protótipo / projeto de estudo em desenvolvimento. A descrição acima distingue
 [GitHub](https://github.com/EuGeanCarlos)
 
 Licenças, autoria compartilhada e atribuições existentes no código e nos materiais originais permanecem aplicáveis.
+
+## Validação desta auditoria — 14/10/2026
+
+Sem publicação nova confirmada. mvn test falhou no carregamento do contexto: não há datasource URL configurada e não há banco embarcado. Configurar PostgreSQL para testar o esqueleto existente.
